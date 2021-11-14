@@ -13,6 +13,7 @@
 		1D3B62C227414FCF008D9EE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D3B62C027414FCF008D9EE7 /* Main.storyboard */; };
 		1D3B62C427414FD0008D9EE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D3B62C327414FD0008D9EE7 /* Assets.xcassets */; };
 		1D3B62C727414FD0008D9EE7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D3B62C527414FD0008D9EE7 /* LaunchScreen.storyboard */; };
+		1D3B62CF27415971008D9EE7 /* CaptionOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3B62CE27415971008D9EE7 /* CaptionOption.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D3B62C327414FD0008D9EE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D3B62C627414FD0008D9EE7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D3B62C827414FD0008D9EE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D3B62CE27415971008D9EE7 /* CaptionOption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionOption.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1D3B62C327414FD0008D9EE7 /* Assets.xcassets */,
 				1D3B62C527414FD0008D9EE7 /* LaunchScreen.storyboard */,
 				1D3B62C827414FD0008D9EE7 /* Info.plist */,
+				1D3B62CE27415971008D9EE7 /* CaptionOption.swift */,
 			);
 			path = MemeMaker;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D3B62BF27414FCF008D9EE7 /* ViewController.swift in Sources */,
+				1D3B62CF27415971008D9EE7 /* CaptionOption.swift in Sources */,
 				1D3B62BB27414FCF008D9EE7 /* AppDelegate.swift in Sources */,
 				1D3B62BD27414FCF008D9EE7 /* SceneDelegate.swift in Sources */,
 			);
